@@ -6,7 +6,6 @@ int main(){
 	
 	if (delta > 0)
 	printf("1\n" ) ;
-	printf("666\n") ;
 	else if (delta <0)
 	printf("2\n") ;
 	else
